@@ -10,7 +10,9 @@ If you submitted your assignment on time, you will receive the following within 
 
 If you have received a **Distinction** or **Pass**, no further action is required, on your part. 
 
-However, if you have received a **Revise**, you will need to open the *_MARKED* notebook, and check the comments to see why you were awarded this mark. You will then be required to re-attempt this notebook, and re-submit a copy of it with _REVISED appended to the filename. Please follow the instructions on how to submit a revision in the [L2D Handbook]() within a week of receiving your grade, and we will re-mark this, and return it to you. If you subsequently achieve a Pass or Distinction, you will then also receive the model solutions.
+However, if you have received a **Revise**, you will need to open the *_MARKED* notebook, and check the comments to see why you were awarded this mark. You will then be required to re-attempt this notebook, and re-submit a copy of it with _REVISED appended to the filename, within a week of receiving your grade. Please follow the instructions on how to submit a revision in the [L2D Handbook](). 
+
+We will endeavour to re-mark this, and return it to you, as fast as possible. If you subsequently achieve a Pass or Distinction, you will then also receive the model solutions in this folder, together with your marked assignment.
 
 *Note: To revise an assignment, you must closely follow the instructions for resubmission outlined in the L2D Handbook, or you risk your revision not being registered for re-marking.*
 
