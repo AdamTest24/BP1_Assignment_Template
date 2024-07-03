@@ -2,9 +2,9 @@
 
 If you submitted your assignment on time, you will receive the following within 14 days of the submission deadline: 
 
-- A **GitHub Pull Request** indicating your grade, with overall feedback.
-- Your **marked manuscript** returned as a Jupyter Notebook: the file extension will contain _MARKED in its name, and the Notebook itself will contain tutor-initialled commentary and feedback, inside.
-- A **model solutions** Notebook (this is only pushed back to your Feedback folder if you receive either a Pass or Distinction).
+1. A **GitHub Pull Request** indicating your grade, with overall feedback.
+2. Your **marked assignment manuscript** returned as a Jupyter Notebook: the file extension will contain _MARKED in its name, and the Notebook itself will contain tutor-initialled commentary and feedback, inside.
+3. A **model solutions** Notebook (this is only pushed back to your Feedback folder if you receive either a Pass or Distinction).
 
 ## Grade:
 
