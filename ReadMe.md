@@ -21,15 +21,15 @@ Please find linked below everything you will require for this lesson topic.
 - [Conditional Statements](https://l2d-october2023.github.io/Basic_Python/03-conditional_statements.html)
 
 ## Assignment Submission:
-The assignment for this lesson is in the form of Jupyter Notebook file(s), that can be found in this GitHub Repository. 
+The assignment for this lesson is in the form of Jupyter Notebook (.ipynb), that can be found in [Assignment](./Assignments) folder in this GitHub Repository. 
 
-- Details of how to submit an assignment are linked both in the [L2D Handbook](https://learntodiscover.github.io/L2D-Handbook/section7.html), and in [our tutorial video](https://youtu.be/dzfapRXFT8s?si=WyGIAMnJRMTNfY0F&t=105).
+Details of how to submit an assignment are linked both in the [L2D Handbook](https://learntodiscover.github.io/L2D-Handbook/section7.html), and in [our tutorial video](https://youtu.be/dzfapRXFT8s?si=WyGIAMnJRMTNfY0F&t=105).
  
 ## Induction, Lecture and Drop-In Session:
 
 As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on Zoom.](https://ucl.zoom.us/j/94616450639)
 
-The live lecture for this lesson will take place on **Thursday 18th of July at 14:00 BST, on Zoom**. The files for this webinar can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
+The live lecture for this lesson will take place on **Thursday 18th of July at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
 
 We look forward to seeing you there. Please note the meeting details, below:
 
@@ -41,7 +41,7 @@ Date:          **July 18th 2024**
 
 Time:          **14-15:00 BST**
 
-Note: A recording of [this webinar](https://www.youtube.com/playlist?list=PLTRx90_S7dFtdlgkeP_Z795m1R1a3l6OR) **UPDATE WITH CORRECT LINK** (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be made available here, shortly after it has been streamed. It will also be posted on the [GitHub Classroom Discussions forum](https://github.com/orgs/L2D-October2023/discussions).**UPDATE WITH CORRECT LINK** 
+Note: A recording of [Live Lecture](https://www.youtube.com/playlist?list=PLTRx90_S7dFtdlgkeP_Z795m1R1a3l6OR) **UPDATE WITH CORRECT LINK** (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be made available here, shortly after it has been streamed. It will also be posted on the [GitHub Classroom Discussions forum](https://github.com/orgs/L2D-October2023/discussions).**UPDATE WITH CORRECT LINK** 
  
 ## Forum:
 - Access to our [Forum for questions and discussions is linked](https://github.com/orgs/L2D-October2023/discussions), **UPDATE WITH CORRECT LINK** and we encourage you to make use of this to post questions, initiate discussions and interact with others taking the course, and the L2D team.
