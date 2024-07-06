@@ -16,7 +16,7 @@ Once you have submitted your assignment notebook, it will be marked by a L2D tut
 
 ## Support
 
-For any enquiries or questions, please make use of our [discussion forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), our [1-to-1 tutor support scheme] () or [contact us by email.](mailto:admin@learntodiscover.ai)
+For any enquiries or questions, please make use of our [discussion forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), our [1-to-1 tutor support scheme](https://learntodiscover.github.io/L2D-Handbook/section9.html) or [contact us by email.](mailto:admin@learntodiscover.ai)
 
 With best wishes,
 
