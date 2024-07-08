@@ -20,7 +20,7 @@ Please find linked below everything you will require for this lesson topic.
 
 - [Conditional Statements](https://l2d-october2023.github.io/Basic_Python/03-conditional_statements.html)
 
-## :envelope: Assignment Submission:
+## :writing_hand: Assignment Submission:
 
 The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), which can be found in the [Assignments folder](./Assignments) in this GitHub Repository. 
 
