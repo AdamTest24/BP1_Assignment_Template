@@ -1,5 +1,3 @@
-![image](https://github.com/L2D-July2024-Part-I/BP1_Assignment_Template2/assets/93711955/8a88a90f-6617-4658-b9a3-b1ddf455defd)# Assignments Folder:
-
 This folder contains the following three items:
 
 ## Assignment:
