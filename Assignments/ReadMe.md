@@ -26,7 +26,7 @@ The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), wh
 
 Details of how to submit an assignment are linked both in the [L2D Handbook](https://learntodiscover.github.io/L2D-Handbook/section7.html), and in [our tutorial video.](https://youtu.be/dzfapRXFT8s?si=WyGIAMnJRMTNfY0F&t=105)
  
-## Induction, Lecture and Drop-In Session:
+## :satellite: Induction, Lecture and Drop-In Session:
 
 As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **July 17th at 14:00 BST**, on Zoom.](https://ucl.zoom.us/j/94616450639)
 
@@ -44,11 +44,11 @@ Time:          **14-15:00 BST**
 
 Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
  
-## Forum:
+## :speech_balloon: Forum:
 - Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
 - Here’s a [quick video tutorial on how to submit a forum post](https://www.youtube.com/watch?app=desktop&v=N5N7QbLwztQ).
  
-## Feedback:
+## :pencil: Feedback:
 We also ask that you please fill out the [feedback form](https://docs.google.com/forms/d/1ZvYLW4bkclrXzpsdwQhGw0xBWZ8Ar0sowbcUr4cb1iA/edit?pli=1) for this lesson. This provides us with invaluable insight into the aspects of the course that you are enjoying, and those that you would like us to improve upon.  
 
 Please do not hesitate to [contact us](mailto:admin@learntodiscover.ai) if you have any questions, or if you are having difficulties accessing the materials and associated links for assignment submissions.
