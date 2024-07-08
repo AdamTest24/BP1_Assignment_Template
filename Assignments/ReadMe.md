@@ -14,6 +14,8 @@ Once you have submitted your assignment notebook, it will be marked by a L2D tut
 
 ## Marking Criteria:
 
+Your assignments are assessed and graded into one of three grades, as per the following criteria:
+
 ### Revise (<50%): 
 
 Assignment demonstrates a lack of understanding of at least some of the key concepts, and misses the point of what is expected of the assignment. Half, or more, of the assignment has been **misunderstood**, and requires revision in order for the candidate to fully understand the concepts of the module. Assignments that fall into this category may also be **incomplete**, with evidence of questions that have not been attempted.
