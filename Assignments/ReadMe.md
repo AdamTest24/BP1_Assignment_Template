@@ -1,60 +1,27 @@
-# :snake: Basic Python 1 - Variables, Types, Operations and Conditional Statements
+This folder contains the following three items:
 
-Welcome to the L2D course, and to your first L2D Lesson GitHub repository: the central learning resource that contains everything you need to begin on our Python programming, data science and machine learning course. Every fortnight, we will schedule the release of a new lesson, and with it will come a new lesson-specific repository, like this one. From this repository, you can access all learning materials, find all course-related information, submit your assignments, and receive your grades. 
+## Assignment:
+This will be a .ipynb (Jupyter Notebook) file that you can see on the root level of this folder. This is your assignment template, which you must fill out and submit before the submission deadline. See L2D Handbook for more instructions.
 
-Please take a moment to study our [L2D Handbook](https://learntodiscover.github.io/L2D-Handbook/) to familiarise yourself with how the course operates, and be sure to attend our induction session.
+## Data Folder:
+If the assignment requires the use of any datasets, you will find these data inside the Data folder.
 
-## :calendar: Course Calendar: 
+## Feedback Folder:
+Once you have submitted your assignment notebook, it will be marked by a L2D tutor, and returned to you with both a grade, and feedback, within 14 days of timely submission. Your grade will be given as a GitHub Pull Request, which will also contain a single overall feedback comment about your work. The notebook itself will contain tutor-initialled comments within your code cells, containing more specific commentary. If you receive a Pass or Distinction, you will automatically receive the model solutions in your Feedback folder. See section Assignment Marking for more information.
 
-Key course dates are given in the [Course Calendar, linked here](https://learntodiscover.github.io/L2D-Handbook/fig/L2D_Calendar_July_24.pdf).
+### Marking Criteria:
+Revise (<50%):
+Assignment demonstrates a lack of understanding of at least some of the key concepts, and misses the point of what is expected of the assignment. Half, or more, of the assignment has been misunderstood, and requires revision in order for the candidate to fully understand the concepts of the module. Assignments that fall into this category may also be incomplete, with evidence of questions that have not been attempted.
 
-## :mortar_board: Lesson Resources: 
+### Pass (50-80%):
+Assignment demonstrates a solid grasp of the material, where the code written achieves the correct result for at least 50% of the questions. Assignments in this category are complete, with no questions left unattempted, and reflect a solid grasp of the core concepts of the material covered in the module.
 
-Please find linked below everything you will require for this lesson topic.
+### Distinction (>80%):
+Assignment demonstrates a fluent, complete understanding of at least 80% of the material, with code written as demonstrated across the module’s learning materials. Where required, the candidate has also demonstrated evidence of a synthetic understanding of relevant concepts across the wider course material. Assignments in this category are complete, with no questions left unattempted, and reflect a fluent grasp of all the concepts explored in the material of this module, and beyond.
 
-**Online learning materials** (including embedded tutorial videos) can be found here:
-
-- [Summary and Setup](https://l2d-october2023.github.io/Basic_Python/)
-
-- [Variables, Types, and Operations](https://l2d-october2023.github.io/Basic_Python/02-input_output.html)
-
-- [Conditional Statements](https://l2d-october2023.github.io/Basic_Python/03-conditional_statements.html)
-
-## :writing_hand: Assignment Submission:
-
-The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), which can be found in the [Assignments folder](./Assignments) in this GitHub Repository. 
-
-Details of how to submit an assignment are linked both in the [L2D Handbook](https://learntodiscover.github.io/L2D-Handbook/section7.html), and in [our tutorial video.](https://youtu.be/dzfapRXFT8s?si=WyGIAMnJRMTNfY0F&t=105)
- 
-## :satellite: Induction, Lecture and Drop-In Session:
-
-As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **July 17th at 14:00 BST**, on Zoom.](https://ucl.zoom.us/j/94616450639)
-
-The live lecture for this lesson will take place on **Thursday 18th of July at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
-
-We look forward to seeing you there. Please note the meeting details, below:
-
-[Live Lecture (Zoom Link)](https://ucl.zoom.us/j/93522532680)
-
-Meeting ID: **935 2253 2680**
-
-Date:          **July 18th 2024**
-
-Time:          **14-15:00 BST**
-
-Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
- 
-## :speech_balloon: Forum:
-- Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
-- Here’s a [quick video tutorial on how to submit a forum post](https://www.youtube.com/watch?app=desktop&v=N5N7QbLwztQ).
- 
-## :pencil: Feedback:
-We also ask that you please fill out the [feedback form](https://docs.google.com/forms/d/1ZvYLW4bkclrXzpsdwQhGw0xBWZ8Ar0sowbcUr4cb1iA/edit?pli=1) for this lesson. This provides us with invaluable insight into the aspects of the course that you are enjoying, and those that you would like us to improve upon.  
-
-Please do not hesitate to [contact us](mailto:admin@learntodiscover.ai) if you have any questions, or if you are having difficulties accessing the materials and associated links for assignment submissions.
-
-We sincerely hope you enjoy the course.
+## Support
+For any enquiries or questions, please make use of our discussion forum, our 1-to-1 tutor support scheme or contact us by email.
 
 With best wishes,
 
-**The L2D Team**
+The L2D Team
