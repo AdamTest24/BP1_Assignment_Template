@@ -1,4 +1,4 @@
-# Basic Python 1 - Variables, Types, Operations and Conditional Statements
+# :snake: Basic Python 1 - Variables, Types, Operations and Conditional Statements
 
 Welcome to the L2D course, and to your first L2D Lesson GitHub repository: the central learning resource that contains everything you need to begin on our Python programming, data science and machine learning course. Every fortnight, we will schedule the release of a new lesson, and with it will come a new lesson-specific repository, like this one. From this repository, you can access all learning materials, find all course-related information, submit your assignments, and receive your grades. 
 
