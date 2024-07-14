@@ -42,7 +42,9 @@ Date:          **July 18th 2024**
 
 Time:          **14-15:00 BST**
 
-Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. For future reference, (this playlist)[https://www.youtube.com/playlist?list=PLTRx90_S7dFu7HczH-bhHC1kh8OmEhL3V] will populate with our lecture recordings, which will be edited and uploaded, shortly after the live broadcast ends; this is for unlimited subsequent review and self-study, as required.
+Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
+
+For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTRx90_S7dFu7HczH-bhHC1kh8OmEhL3V) will populate with our lecture recordings, which will be edited and uploaded, shortly after the live broadcast ends; this is for unlimited subsequent review and self-study, as required.
  
 ## :speech_balloon: Forum:
 - Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
