@@ -14,11 +14,11 @@ Please find linked below everything you will require for this lesson topic.
 
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
-- [Summary and Setup](https://l2d-october2023.github.io/Basic_Python/)
+- [Summary and Setup](https://l2d-july2024-part-i.github.io/Basic_Python/)
 
-- [Variables, Types, and Operations](https://l2d-october2023.github.io/Basic_Python/02-input_output.html)
+- [Variables, Types, and Operations](https://l2d-july2024-part-i.github.io/Basic_Python/02-input_output.html)
 
-- [Conditional Statements](https://l2d-october2023.github.io/Basic_Python/03-conditional_statements.html)
+- [Conditional Statements](https://l2d-july2024-part-i.github.io/Basic_Python/03-conditional_statements.html)
 
 ## :writing_hand: Assignment Submission:
 
