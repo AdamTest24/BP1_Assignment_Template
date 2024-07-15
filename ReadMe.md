@@ -24,7 +24,7 @@ Please find linked below everything you will require for this lesson topic.
 
 The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), which can be found in the [Assignments folder](./Assignments) in this GitHub Repository. 
 
-Details of how to submit an assignment are linked both in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html)
+Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html)
  
 ## :satellite: Induction, Lecture and Drop-In Session:
 
