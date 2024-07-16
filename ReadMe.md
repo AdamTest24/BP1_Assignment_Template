@@ -28,7 +28,7 @@ Details of how to submit an assignment are given in the [L2D Handbook.](https:
  
 ## :satellite: Induction, Lecture and Drop-In Session:
 
-As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **July 17th at 14:00 BST**, on Zoom.](https://ucl.zoom.us/j/94616450639)
+As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **July 17th at 14:00 BST**, on Zoom.](https://ucl.zoom.us/s/93522532680)
 
 The live lecture for this lesson will take place on **Thursday 18th of July at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
 
