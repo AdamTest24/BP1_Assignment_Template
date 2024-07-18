@@ -10,7 +10,7 @@ Key course dates are given in the [Course Calendar, linked here](https://learnto
 
 ## :mortar_board: Lesson Resources: 
 
-Please find linked below everything you will require for this lesson topic.
+Please find linked below everything you will require for this lesson topic. A [video on how our lesson repos are created is liknked, here](https://youtu.be/KkbOMxy9YgE).
 
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
@@ -24,7 +24,7 @@ Please find linked below everything you will require for this lesson topic.
 
 The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), which can be found in the [Assignments folder](./Assignments) in this GitHub Repository. 
 
-Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html)
+Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html), and are also provided in this [step-by-step tutorial video](https://youtu.be/Hspc10_A9ys), that you can refer back to.
  
 ## :satellite: Induction, Lecture and Drop-In Session:
 
