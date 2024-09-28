@@ -6,31 +6,31 @@ Please take a moment to study our [L2D Handbook](https://learntodiscover.github.
 
 ## :calendar: Course Calendar: 
 
-Key course dates are given in the [Course Calendar, linked here](https://learntodiscover.github.io/L2D-Handbook/fig/L2D_Calendar_July_24.pdf).
+Key course dates are given in the [Course Calendar, linked here](TO BE LINKED).
 
 ## :mortar_board: Lesson Resources: 
 
-Please find linked below everything you will require for this lesson topic. A [video on how our lesson repos are created is liknked, here](https://youtu.be/KkbOMxy9YgE).
+Please find linked below everything you will require for this lesson topic.
 
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
-- [Summary and Setup](https://l2d-july2024-part-i.github.io/Basic_Python/)
+- [Summary and Setup](TO BE LINKED)
 
-- [Variables, Types, and Operations](https://l2d-july2024-part-i.github.io/Basic_Python/02-input_output.html)
+- [Variables, Types, and Operations](TO BE LINKED)
 
-- [Conditional Statements](https://l2d-july2024-part-i.github.io/Basic_Python/03-conditional_statements.html)
+- [Conditional Statements](TO BE LINKED)
 
 ## :writing_hand: Assignment Submission:
 
 The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), which can be found in the [Assignments folder](./Assignments) in this GitHub Repository. 
 
-Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html), and are also provided in this [step-by-step tutorial video](https://youtu.be/Hspc10_A9ys), that you can refer back to.
+Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html)
  
 ## :satellite: Induction, Lecture and Drop-In Session:
 
-As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **July 17th at 14:00 BST**, on Zoom.](https://ucl.zoom.us/s/93522532680)
+As this is the first lesson you are taking with L2D, please make sure you attend our online [L2D Induction on **INDUCTION DATE at 14:00 BST**, on Zoom.](https://ucl.zoom.us/s/93522532680)
 
-The live lecture for this lesson will take place on **Thursday 18th of July at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
+The live lecture for this lesson will take place on **LECTURE DATE at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
 
 We look forward to seeing you there. Please note the meeting details, below:
 
@@ -38,16 +38,16 @@ We look forward to seeing you there. Please note the meeting details, below:
 
 Meeting ID: **935 2253 2680**
 
-Date:          **July 18th 2024**
+Date:          **LECTURE DATE**
 
 Time:          **14-15:00 BST**
 
-Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
+Note: A recording of this lesson's Live Lecture (Basic Python 1 - Variables, Types, Operations and Conditional Statements) will be posted on the [Discussion Forum](TO BE LINKED), shortly after it has been streamed. 
 
-For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTRx90_S7dFu7HczH-bhHC1kh8OmEhL3V) will populate with our lecture recordings, which will be edited and uploaded, shortly after the live broadcast ends; this is for unlimited subsequent review and self-study, as required.
+For future reference, [this playlist](PLAYLIST LINK) will populate with our lecture recordings, which will be edited and uploaded, shortly after the live broadcast ends; this is for unlimited subsequent review and self-study, as required.
  
 ## :speech_balloon: Forum:
-- Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
+- Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](TO BE LINKED). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
 - Here’s a [quick video tutorial on how to submit a forum post](https://www.youtube.com/watch?app=desktop&v=N5N7QbLwztQ).
  
 ## :pencil: Feedback:
